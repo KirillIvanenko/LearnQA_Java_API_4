@@ -23,6 +23,6 @@ public class CountRedirectionTest {
             if (responseCode != 200) {
                followMark = true;}
         }
-        System.out.println("Numbet of rediractions: " + numberOfHope);
+        System.out.println("Number of redirections: " + numberOfHope);
     }
 }
